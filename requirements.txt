@@ -1,0 +1,3 @@
+# Core sysadmin telemetry dependencies
+# Standard library first architecture; zero mandatory external runtime dependencies.
+pytest>=7.0.0
